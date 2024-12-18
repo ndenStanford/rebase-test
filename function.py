@@ -9,3 +9,6 @@ def substract(x,y):
 
 def sum_2(x,y,z):
   return x+y+z
+
+def multiply_2(x,y,z):
+  return x*y*z
